@@ -1,0 +1,62 @@
+*{
+     margin: 0 px;
+     padding: 0 px;
+     box-sizing: border-box;
+     font-family: 'Lato', sans-serif;
+}
+
+/* global css */
+
+.global-p{
+
+     color: rgba(39, 39, 39, 0.60);
+     font-size: 13px;
+     font-weight: 400;
+     line-height: 27px;
+     width: 545px;
+
+}
+
+.btn{
+     border-radius: 8px;
+     background: #E55473;
+     padding: 18px 33px;
+     border: 0;
+     color: white;
+
+}
+
+
+
+
+
+/* project css */
+
+/* Header section started=> */
+
+.header{
+     height: 600px;
+     display: flex;
+     justify-content: space-around;
+     background: rgba(229, 84, 115, 0.10);
+     align-items: center;
+}
+
+
+.heading-1{
+     color: #272727;
+     font-size: 56px;
+     font-weight: 800;
+     width: 600px;
+  
+}
+
+.img-1{
+     width: 400px;
+     height: 500px;
+}
+
+
+/* Feature section started => */
+
+
