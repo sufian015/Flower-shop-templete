@@ -184,3 +184,46 @@
 .offer-color{
      color: #E55473;
 }
+
+
+/* instragram section */
+
+.instragram{}
+
+.insta-heading{
+
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     margin-top: 50px;
+
+}
+
+.insta-heading h3{
+
+}
+
+.insta-heading p{
+
+     padding-left: 110px;
+     margin-top: 0px;
+
+}
+
+.insta-image{
+     display: flex;
+     gap: 30px;
+     margin-left: 210px;
+     margin-top: 36px;
+
+
+}
+
+.insta-pic{
+         
+         width: 209px;
+         height: 240px;
+     
+}
+
